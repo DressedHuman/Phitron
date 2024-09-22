@@ -1,6 +1,7 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main(){
+int main()
+{
     printf("Hello world\tthere is a tab before");
     printf("Now I am a programmer\n");
     printf("This line prints a backslash: \\\n");
