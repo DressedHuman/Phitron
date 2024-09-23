@@ -19,4 +19,5 @@ int main()
     {
         printf("Kothao jabo na");
     }
+    return 0;
 }
